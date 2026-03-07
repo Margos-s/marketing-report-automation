@@ -1,0 +1,12 @@
+# PyCharm settings
+.idea/
+
+# Generated output files
+campaign_report.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
