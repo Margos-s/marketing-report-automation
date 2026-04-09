@@ -99,3 +99,9 @@ actively building skills in Python, Pandas, SQL and Tableau
 
 *This project is part of my analytics portfolio demonstrating
 Python automation, data analysis and business thinking.*
+
+## 📊 Output Preview
+
+This is the automatically generated Excel report:
+
+![Marketing Report](output_report.png)
